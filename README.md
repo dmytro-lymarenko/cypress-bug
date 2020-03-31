@@ -1,4 +1,4 @@
-This repository reproduces thee bug in [cypress](https://www.cypress.io/)
+This repository reproduces the bug in [cypress](https://www.cypress.io/)
 
 ## Steps to reproduce
 
